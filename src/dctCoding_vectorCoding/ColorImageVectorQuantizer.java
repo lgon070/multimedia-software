@@ -5,7 +5,7 @@ import java.util.Random;
 import java.util.*;
 
 /*******************************************************
- * CS4551 Multimedia Software Systems
+ * Multimedia Software Systems
  *
  * Spring 2020 Homework #2
  *

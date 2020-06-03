@@ -1,6 +1,6 @@
 
 /*******************************************************
- CS4551 Multimedia Software Systems
+Multimedia Software Systems
  @ Author: Elaine Kang
 
 MImage class is for a 24bit RGB image only.

@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 /*******************************************************
- * CS4551 Multimedia Software Sjstems
+ * Multimedia Software Sjstems
  *
  * Spring 2020 Homework #2
  *

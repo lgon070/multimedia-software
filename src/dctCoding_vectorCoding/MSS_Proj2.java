@@ -1,13 +1,13 @@
 
 /*******************************************************
- * CS4551 Multimedia Software Systems @ Author: Elaine Kang
+ * Multimedia Software Systems
  * 
- * Spring 2020 Homework #2 Framework by Yi Zhao
+ * Spring 2020 Homework #2
  *******************************************************/
 
 import java.util.Scanner;
 
-public class CS4551_Main {
+public class MSS_Proj2 {
 	public static void main(String[] args) {
 
 		// the program expects one command line argument
@@ -43,7 +43,7 @@ public class CS4551_Main {
 	}
 
 	public static void usage() {
-		System.out.println("\nUsage: java CS4551_Main [input_ppm_file]\n");
+		System.out.println("\nUsage: java MSS_Proj2 [input_ppm_file]\n");
 	}
 
 	// main menu
